@@ -1,0 +1,15 @@
+{
+  "asset": "assets/dylan-faden-v2.png",
+  "sha256": "21791b6f60bce763339f0b51a0f54be358ae3e3191dec8b83686db95d3e21394",
+  "encodedBytes": 2483791,
+  "structuralValidation": {"ok":true,"width":1536,"height":2288,"mode":"RGBA","requiredFrames":73,"unusedTransparentCells":15},
+  "petQualityGate": {"ok":true,"jumpLiftPixels":19,"landingDeltaPixels":0,"maximumLookCenterDriftPixels":1.5},
+  "servicePreflight": {"valid":true,"spriteVersion":2},
+  "importVerified": true,
+  "independentDirectionReview": {"reviewers":3,"cardinalsPassed":true,"note":"157.5-degree horizontal cue is subtle in isolation; accepted after labeled sequence review."},
+  "reviewNotes": [
+    "Some adjacent intermediate gaze poses are similar; the cardinal directions remain readable.",
+    "Lower-edge transparency warnings were reviewed as exterior space between blade and boots, not missing body pixels.",
+    "These are results for the exact PNG hash above, not guarantees about a modified or regenerated asset."
+  ]
+}

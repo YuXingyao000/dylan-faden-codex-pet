@@ -1,0 +1,37 @@
+{
+  "manifestVersion": 1,
+  "manifestPurpose": "Portable asset description, not a client installation configuration",
+  "name": "迪伦·法登",
+  "englishName": "Dylan Faden Papercraft Pet",
+  "description": "《控制：共振》迪伦·法登纸偶，方块折纸造型与深色制服。",
+  "version": "1.0.0",
+  "spriteVersionNumber": 2,
+  "spritesheet": "assets/dylan-faden-v2.png",
+  "sha256": "21791b6f60bce763339f0b51a0f54be358ae3e3191dec8b83686db95d3e21394",
+  "encodedBytes": 2483791,
+  "width": 1536,
+  "height": 2288,
+  "columns": 8,
+  "rows": 11,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "requiredFrames": 73,
+  "unusedCells": 15,
+  "animations": [
+    {"state":"idle","row":0,"frames":6,"durationsMs":[280,110,110,140,140,320]},
+    {"state":"running-right","row":1,"frames":8,"durationsMs":[120,120,120,120,120,120,120,220]},
+    {"state":"running-left","row":2,"frames":8,"durationsMs":[120,120,120,120,120,120,120,220]},
+    {"state":"waving","row":3,"frames":4,"durationsMs":[140,140,140,280]},
+    {"state":"jumping","row":4,"frames":5,"durationsMs":[140,140,140,140,280]},
+    {"state":"failed","row":5,"frames":8,"durationsMs":[140,140,140,140,140,140,140,240]},
+    {"state":"waiting","row":6,"frames":6,"durationsMs":[150,150,150,150,150,260]},
+    {"state":"running","row":7,"frames":6,"durationsMs":[120,120,120,120,120,220]},
+    {"state":"review","row":8,"frames":6,"durationsMs":[150,150,150,150,150,280]}
+  ],
+  "lookDirections": {
+    "angleConvention":"clockwise from screen-up; 90 right, 180 down, 270 left",
+    "row9Degrees":[0,22.5,45,67.5,90,112.5,135,157.5],
+    "row10Degrees":[180,202.5,225,247.5,270,292.5,315,337.5],
+    "previewFrameDurationMs":160
+  }
+}
